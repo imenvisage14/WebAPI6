@@ -1,0 +1,17 @@
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\bin\Debug\net6.0\BAL_CRUD.deps.json
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\bin\Debug\net6.0\BAL_CRUD.runtimeconfig.json
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\bin\Debug\net6.0\BAL_CRUD.dll
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\bin\Debug\net6.0\BAL_CRUD.pdb
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\obj\Debug\net6.0\BAL_CRUD.csproj.AssemblyReference.cache
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\obj\Debug\net6.0\BAL_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\obj\Debug\net6.0\BAL_CRUD.AssemblyInfoInputs.cache
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\obj\Debug\net6.0\BAL_CRUD.AssemblyInfo.cs
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\obj\Debug\net6.0\BAL_CRUD.csproj.CoreCompileInputs.cache
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\obj\Debug\net6.0\BAL_CRUD.dll
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\obj\Debug\net6.0\refint\BAL_CRUD.dll
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\obj\Debug\net6.0\BAL_CRUD.pdb
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\obj\Debug\net6.0\BAL_CRUD.genruntimeconfig.cache
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\obj\Debug\net6.0\ref\BAL_CRUD.dll
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\bin\Debug\net6.0\DAL_CRUD.dll
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\bin\Debug\net6.0\DAL_CRUD.pdb
+D:\Data\Learning\VS2023\WebAPITesting\BAL_CRUD\obj\Debug\net6.0\BAL_CRUD.csproj.CopyComplete
